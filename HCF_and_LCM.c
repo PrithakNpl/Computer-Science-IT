@@ -1,3 +1,7 @@
+
+//Prithak Neapl
+//Kathmandu Nepal
+
 #include<stdio.h>
 int main()
 {
