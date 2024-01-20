@@ -1,3 +1,4 @@
+//Written By Madhav SIgdel
 #include<stdio.h>
 float area(float r);
 float volume(float r);
